@@ -1,4 +1,4 @@
-package com.alvarium.app.alvarium
+package com.alvarium.alvarium
 
 import io.flutter.embedding.android.FlutterActivity
 

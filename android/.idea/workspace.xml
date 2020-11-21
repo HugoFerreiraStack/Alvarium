@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bfec8af-5bf0-46a4-aa26-22de24891827" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alvarium_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/alvarium_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/app_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/app_controller.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/app_controller.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/app_controller.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/app_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/app_module.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/app_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/app_widget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_controller.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_controller.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_controller.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_module.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/app/modules/home/home_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/app/modules/home/home_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/app/app_controller_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../test/app/app_controller_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/app/modules/home/home_controller_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../test/app/modules/home/home_controller_test.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/app/modules/home/home_page_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../test/app/modules/home/home_page_test.dart" afterDir="false" />
-    </list>
+    <list default="true" id="a787632c-cd6e-4702-9a00-8835e279fd66" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Novo_Emulador" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5X_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -63,25 +47,15 @@
       </state>
     </system>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="D:\FlutterProjects\alvarium\android\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1jDDbG544SnZjkwtJ3MZbUlOzXd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1jryG44ONAqN1pYDJS3rfcQeWD0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -94,12 +68,13 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="app" />
+      <module name="android.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -135,11 +110,16 @@
       </Native>
       <Profilers>
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -174,30 +154,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1bfec8af-5bf0-46a4-aa26-22de24891827" name="Default Changelist" comment="" />
-      <created>1603329837101</created>
+      <changelist id="a787632c-cd6e-4702-9a00-8835e279fd66" name="Default Changelist" comment="" />
+      <created>1604576405977</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603329837101</updated>
+      <updated>1604576405977</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1380" height="220" key="GridCell.Tab.0.bottom" timestamp="1603330401361">
+    <state x="376" y="197" key="run.anything.popup" timestamp="1604576413335">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1380" height="220" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1603330401361" />
-    <state width="1380" height="220" key="GridCell.Tab.0.center" timestamp="1603330401361">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1380" height="220" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1603330401361" />
-    <state width="1380" height="220" key="GridCell.Tab.0.left" timestamp="1603330401361">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1380" height="220" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1603330401361" />
-    <state width="1380" height="220" key="GridCell.Tab.0.right" timestamp="1603330401361">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state width="1380" height="220" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1603330401361" />
+    <state x="376" y="197" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1604576413335" />
   </component>
 </project>

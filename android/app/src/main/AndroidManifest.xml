@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.alvarium.app.alvarium">
+    package="com.alvarium.alvarium">
    <application
-        android:label="alvarium"
+        android:label="fabrica"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

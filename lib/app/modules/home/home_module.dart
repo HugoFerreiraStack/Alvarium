@@ -1,9 +1,11 @@
+import 'package:flutter/src/widgets/framework.dart';
+
 import 'home_controller.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 import 'home_page.dart';
 
-class HomeModule extends ChildModule {
+class HomeModule extends WidgetModule {
   @override
   List<Bind> get binds => [
         $HomeController,
@@ -15,4 +17,8 @@ class HomeModule extends ChildModule {
       ];
 
   static Inject get to => Inject<HomeModule>.of();
+
+  @override
+  // TODO: implement view
+  Widget get view => HomePage();
 }
